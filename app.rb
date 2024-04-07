@@ -11,6 +11,6 @@ lista1.map do
 counter += 1
 end
 
-print nova_lista
+print nova_lista.join(",")
 
 
